@@ -1,0 +1,41 @@
+/*-----------------------------------------------navigation bar------------------------------------------------*/
+.naman{
+    background-image: linear-gradient(rgba(51,0,155,0.7),rgba(51,00,155,0.6));
+    display: table;
+    width: 100%;
+    
+}
+.logo{
+    float: left;
+    padding: 15px;
+    height: 60px;
+    
+}
+.right{
+    float: right;
+    list-style: none;
+}
+.right li{
+    display: inline-block;
+}
+.right li img{
+    height: 40px;
+    padding: 8px;
+}
+nav img{
+    height: 75px;
+}
+h1{
+    float: left;
+    position: relative;
+    top: 0;
+    left: 35%;
+    font-family: cursive;
+}  
+.sidebar1{
+    border-right: 2px solid #51009b;
+}
+.text-area{
+    background-image: url(Resources/black-22.jpg);
+    height: 80vh;
+}
